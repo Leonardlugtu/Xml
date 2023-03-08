@@ -1,0 +1,66 @@
+<sports>
+  <sport>
+    <name>Football</name>
+    <description>A team sport played with a spherical ball between two teams of eleven players.</description>
+    <rules>
+      <rule>Teams must score goals by kicking the ball into the opposing team's goal.</rule>
+      <rule>The team with the most goals at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Basketball</name>
+    <description>A team sport played on a rectangular court with two teams of five players.</description>
+    <rules>
+      <rule>Teams must score points by shooting the ball through the opposing team's hoop.</rule>
+      <rule>The team with the most points at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Tennis</name>
+    <description>A racket sport played on a rectangular court with two or four players.</description>
+    <rules>
+      <rule>Players must hit the ball over the net and into the opposing player's court.</rule>
+      <rule>Points are earned when the opposing player fails to return the ball.</rule>
+      <rule>The player with the most points at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Golf</name>
+    <description>A precision club-and-ball sport, where players aim to hit balls into a series of holes on a course with as few strokes as possible.</description>
+    <rules>
+      <rule>Players must hit a ball into a series of holes on a course with as few strokes as possible.</rule>
+      <rule>The player with the fewest strokes at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Baseball</name>
+    <description>A bat-and-ball game played between two teams of nine players each.</description>
+    <rules>
+      <rule>The batting team must score runs by hitting the ball thrown by the opposing team's pitcher and running around a series of bases.</rule>
+      <rule>The fielding team must prevent the batting team from scoring runs.</rule>
+      <rule>The team with the most runs at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Cricket</name>
+    <description>A bat-and-ball game played between two teams of eleven players each.</description>
+    <rules>
+      <rule>The batting team must score runs by hitting the ball and running between two sets of wickets.</rule>
+      <rule>The fielding team must prevent the batting team from scoring runs and take their wickets.</rule>
+      <rule>The team with the most runs at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Volleyball</name>
+    <description>A team sport played on a court with two teams of six players.</description>
+    <rules>
+      <rule>Teams must hit a ball over a net and into the opposing team's court.</rule>
+      <rule>Points are earned when the opposing team fails to return the ball.</rule>
+      <rule>The team with the most points at the end of the game wins.</rule>
+    </rules>
+  </sport>
+  <sport>
+    <name>Hockey</name>
+    <description>A team sport played on a field with two teams of eleven players.</description>
+    <rules>
+      <rule>Teams must score goals by hitting a ball into the opposing
